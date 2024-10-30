@@ -1,0 +1,15 @@
+body {
+	background-color: #666666;
+	font: 12px "Lucida Grande", "Lucida Sans Unicode", Tahoma, Verdana;
+	padding: 0px;
+	margin: 0px;
+}
+.albums td {
+	border: 2px solid #CCCCCC;
+	padding: 5px;
+	background-color: #999999;
+	width: 140px;
+}
+.albums td img {
+	border: none;
+}

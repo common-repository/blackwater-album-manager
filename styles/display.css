@@ -1,0 +1,143 @@
+#content {
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	float: none;
+	color: #000000;
+	font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
+	font-size: 14px;
+}
+
+.bam-album {
+	margin-bottom: 10px;
+}
+.bam-album-name {
+	background-color: #e6e6e6;
+	padding: 8px;
+	font-size: 18px;
+	font-weight: bold;
+}
+.bam-album-meta {
+	margin-top: 1px;
+	background-color: #e6e6e6;
+}
+
+.bam-child-albums {
+	margin-bottom: 9px;
+}
+.bam-child-album {
+	background-color: #e6e6e6;
+	margin-bottom: 1px;
+}
+.bam-child-album a {
+	padding: 5px 15px;
+}
+.bam-child-album a:link {
+	display: block;
+	color: #000000;
+	background-color: transparent;
+	text-decoration: none;
+}
+.bam-child-album a:visited {
+	display: block;
+	color: #000000;
+	background-color: transparent;
+	text-decoration: none;
+}
+.bam-child-album a:hover {
+	display: block;
+	color: #000000;
+	background-color: #CCCCCC;
+	text-decoration: none;
+}
+.bam-child-album a:active {
+	display: block;
+	color: #000000;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+
+.bam-picture-list {
+	background-color: #e6e6e6;
+	padding-left: 20px;
+}
+.bam-picture-list h1 {
+	color: #FFFFFF;
+	font-size: 16px;
+	font-weight: bold;
+	font-style: none;
+	margin: 0px 0px 8px -20px;
+	padding: 5px 30px;
+	text-align: left;
+	background-color: #000000;
+}
+.bam-picture {
+	padding-left: 10px;
+	margin-top: 10px;
+}
+.bam-picture h2 {
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+	font-style: none;
+	margin: 0px 0px 5px -10px;
+	padding: 2px 20px;
+	text-align: left;
+	background-color: #000000;
+}
+.bam-picture img {
+	border: 1px solid #000000;
+}
+.bam-picture .bam-img a:link {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	background-color: transparent;
+}
+.bam-picture .bam-img a:visited {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	background-color: transparent;
+}
+.bam-picture .bam-img a:active {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	background-color: transparent;
+}
+.bam-picture .bam-img a:hover {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	background-color: transparent;
+}
+.bam-picture-meta {
+	padding-left: 10px;
+}
+.bam-picture-meta h3 {
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: italic;
+	margin: 0px 0px 0px -10px;
+	padding: 2px 20px;
+	text-align: left;
+	background-color: #4281B7;
+}
+
+.bam-meta-name {
+	color: #333333;
+	font-size: 12px;
+	font-weight: bold;
+	font-style: none;
+	padding: 8px;
+}
+.bam-meta-value {
+	color: #333333;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: none;
+	padding: 5px 10px;
+}
